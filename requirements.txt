@@ -1,5 +1,4 @@
-aiogram==3.0.0b7
+pyTelegramBotAPI==4.14.2
 requests==2.31.0
 beautifulsoup4==4.12.2
 Flask==2.3.3
-aiohttp==3.8.5
